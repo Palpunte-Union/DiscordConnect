@@ -1,0 +1,4 @@
+name: DiscordConnect
+version: @version@
+main: com.github.eighty88.discord.DiscordConnect
+authors: [ eight_y_88 ]
